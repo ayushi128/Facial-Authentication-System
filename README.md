@@ -31,7 +31,7 @@ The system uses MediaPipe for face detection, a fine-tuned ResNet50 model for fe
 - Pandas
 - Tkinter
 
-## 📊 Experimental Results
+## Experimental Results
 
 - Evaluated 9 machine learning classifiers on facial embeddings extracted using a fine-tuned ResNet50 model.
 - Compared model performance using training/testing accuracy, cross-validation, weighted F1 score, confusion matrix, FAR & FRR analysis, PCA variance, and overfitting analysis.
